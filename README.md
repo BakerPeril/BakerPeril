@@ -16,11 +16,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/BakerPeril/BakerPeril/blob/master/picture/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/BakerPeril/BakerPeril/blob/master/picture/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt='GIF' src="https://github.com/BakerPeril/BakerPeril/blob/master/picture/wave.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt='GIF' src="https://github.com/BakerPeril/BakerPeril/blob/master/picture/gandalf_parrot.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/BakerPeril/BakerPeril/blob/master/picture/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-
 <br>
-
-
-
